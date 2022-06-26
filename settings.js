@@ -20,7 +20,7 @@ global.autoread = false // auto read pesan / message
 // Other
 global.botname = "SANS BOT" //namabot kalian
 global.ownername= "ᴹᴿ᭄ wanda prasetya ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.myweb ="https://instagram.com/wnd.prfct" //bebas asal jan hapus
 global.youtube = "https://youtube.com/wanda prasetya" //bebas asal jan hapus
 global.github = "https://wandaprasetya23.github.io/" //bebas
 global.email = "prwsetya@gmail.com" //bebas
