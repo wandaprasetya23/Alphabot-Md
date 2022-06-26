@@ -92,254 +92,254 @@ saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu Sans Bot :*
 
-╭─❒ 「 Bot Info 」 
-├ ${prefix}owner
-├ ${prefix}rules
-├ ${prefix}sc
-├ ${prefix}ping
-├ ${prefix}runtime
-├ ${prefix}botstatus
-╰❒ ${prefix}donate
-
-
-╭─❒ 「 Owner 」 
-├ < evaluate
-├ > evaluate
-├ $ exec
-├ => exec
-├ ${prefix}setmenu [query]
-├ ${prefix}setmenu templateLocation
-├ ${prefix}setmenu templateTenor
-├ ${prefix}setmenu katalog
-├ ${prefix}setmenu katalog2
-├ ${prefix}setmenu list
-├ ${prefix}setwm packname|author
-├ ${prefix}sendsesi
-├ ${prefix}listpc
-├ ${prefix}listgc
-├ ${prefix}broadcast [text]
-├ ${prefix}bc [text]
-├ ${prefix}bcgc [text]
-├ ${prefix}nsfw [on/off]
-├ ${prefix}mute [on/off]
-├ ${prefix}banchat
-├ ${prefix}unbanchat
-├ ${prefix}autorespond [on/off]
-├ ${prefix}antiviewonce [on/off]
-├ ${prefix}join [link]
-├ ${prefix}self
-├ ${prefix}public [only bot]
-├ ${prefix}del [reply pesan bot]
-╰❒ ${prefix}setppbot [reply image]
-
-╭─❒ 「 Store Menu 」
-├ ${prefix}list
-├ ${prefix}addlist [key|respond]
-├ ${prefix}dellist [key]
-├ ${prefix}update [key|respond]
-├ ${prefix}store
-├ ${prefix}kali
-├ ${prefix}bagi
-├ ${prefix}tambah
-├ ${prefix}kurang
-├ ${prefix}kalkulator
-├ ${prefix}proses
-╰❒ ${prefix}done [surah|ayat]
+╭─❒ 「 Sans Bot Info 」 
+├ 🌐${prefix}owner
+├ 🌐${prefix}rules
+├ 🌐${prefix}sc
+├ 🌐${prefix}ping
+├ 🌐${prefix}runtime
+├ 🌐${prefix}botstatus
+╰❒ 🌐${prefix}donate
 
 
-╭─❒ 「 Database 」 
-├ ${prefix}setcmd [reply stiker]
-├ ${prefix}delcmd [reply stiker]
-├ ${prefix}listcmd
-├ ${prefix}absen
-├ ${prefix}cekabsen
-├ ${prefix}deleteabsen
-├ ${prefix}absenstart
-├ ${prefix}addmsg [nama file]
-├ ${prefix}getmsg [nama file]
-├ ${prefix}listmsg
-╰❒ ${prefix}delmsg [nama file]
+╭─❒ 「 Owner🧒 」 
+├ 🎃< evaluate
+├ 🎃> evaluate
+├ 🎃$ exec
+├ 🎃=> exec
+├ 🎃${prefix}setmenu [query]
+├ 🎃${prefix}setmenu templateLocation
+├ 🎃${prefix}setmenu templateTenor
+├ 🎃${prefix}setmenu katalog
+├ 🎃${prefix}setmenu katalog2
+├ 🎃${prefix}setmenu list
+├ 🎃${prefix}setwm packname|author
+├ 🎃${prefix}sendsesi
+├ 🎃${prefix}listpc
+├ 🎃${prefix}listgc
+├ 🎃${prefix}broadcast [text]
+├ 🎃${prefix}bc [text]
+├ 🎃${prefix}bcgc [text]
+├ 🎃${prefix}nsfw [on/off]
+├ 🎃${prefix}mute [on/off]
+├ 🎃${prefix}banchat
+├ 🎃${prefix}unbanchat
+├ 🎃${prefix}autorespond [on/off]
+├ 🎃${prefix}antiviewonce [on/off]
+├ 🎃${prefix}join [link]
+├ 🎃${prefix}self
+├ 🎃${prefix}public [only bot]
+├ 🎃${prefix}del [reply pesan bot]
+╰❒ 🎃${prefix}setppbot [reply image]
+
+╭─❒ 「 Store Menu 🛒 」
+├ 🛍️${prefix}list
+├ 🛍️${prefix}addlist [key|respond]
+├ 🛍️${prefix}dellist [key]
+├ 🛍️${prefix}update [key|respond]
+├ 🛍️${prefix}store
+├ 🛍️${prefix}kali
+├ 🛍️${prefix}bagi
+├ 🛍️${prefix}tambah
+├ 🛍️${prefix}kurang
+├ 🛍️${prefix}kalkulator
+├ 🛍️${prefix}proses
+╰❒ 🛍️${prefix}done [surah|ayat]
 
 
-╭─❒ 「 Group 」 
-├ ${prefix}listonline
-├ ${prefix}sider
-├ ${prefix}wm packname|author
-├ ${prefix}infochat
-├ ${prefix}setdesk [text]
-├ ${prefix}setppgrup [reply image]
-├ ${prefix}antilink [on/off]
-├ ${prefix}revoke
-├ ${prefix}leave
-├ ${prefix}add [62***]
-├ ${prefix}kick @tag
-├ ${prefix}leave
-├ ${prefix}linkgc
-├ ${prefix}take packname|author
-├ ${prefix}group [open/close]
-├ ${prefix}tagall [text]
-╰❒ ${prefix}hidetag [text]
-
-╭─❒ 「 Anime 」 
-├ ${prefix}quotesanime
-├ ${prefix}anime [query]
-├ ${prefix}manga [query]
-╰❒ ${prefix}character [query]
-
-╭─❒ 「 Tag 」 
-├ ${prefix}stickertag
-├ ${prefix}videotag [query]
-├ ${prefix}vntag [query]
-╰❒ ${prefix}imagetag [query]
-
-╭─❒ 「 Stalking 」 
-├ ${prefix}igstalk [username]
-├ ${prefix}ghstalk [username]
-╰❒ ${prefix}ytstalk [channel]
+╭─❒ 「 Database 🗂️ 」 
+├ 🍩${prefix}setcmd [reply stiker]
+├ 🍩${prefix}delcmd [reply stiker]
+├ 🍩${prefix}listcmd
+├ 🍩${prefix}absen
+├ 🍩${prefix}cekabsen
+├ 🍩${prefix}deleteabsen
+├ 🍩${prefix}absenstart
+├ 🍩${prefix}addmsg [nama file]
+├ 🍩${prefix}getmsg [nama file]
+├ 🍩${prefix}listmsg
+╰❒ 🍩${prefix}delmsg [nama file]
 
 
-╭─❒ 「 Search 」 
-├ ${prefix}ytsearch [query]
-├ ${prefix}wallpaper [query]
-├ ${prefix}google [query]
-├ ${prefix}wikimedia [query]
-├ ${prefix}hentai
-├ ${prefix}wattpad [query]
-├ ${prefix}webtoons [query]
-├ ${prefix}drakor [query]
-╰❒ ${prefix}pinterest [query]
+╭─❒ 「 Group 🚻 」 
+├ ⏱️${prefix}listonline
+├ ⏱️${prefix}sider
+├ ⏱️${prefix}wm packname|author
+├ ⏱️${prefix}infochat
+├ ⏱️${prefix}setdesk [text]
+├ ⏱️${prefix}setppgrup [reply image]
+├ ⏱️${prefix}antilink [on/off]
+├ ⏱️${prefix}revoke
+├ ⏱️${prefix}leave
+├ ⏱️${prefix}add [62***]
+├ ⏱️${prefix}kick @tag
+├ ⏱️${prefix}leave
+├ ⏱️${prefix}linkgc
+├ ⏱️${prefix}take packname|author
+├ ⏱️${prefix}group [open/close]
+├ ⏱️${prefix}tagall [text]
+╰❒ ⏱️${prefix}hidetag [text]
+
+╭─❒ 「 Anime 🐰 」 
+├ ♓${prefix}quotesanime
+├ ♓${prefix}anime [query]
+├ ♓${prefix}manga [query]
+╰❒ ♓${prefix}character [query]
+
+╭─❒ 「 Tag 🐖 」 
+├ ❗${prefix}stickertag
+├ ❗${prefix}videotag [query]
+├ ❗${prefix}vntag [query]
+╰❒ ❗${prefix}imagetag [query]
+
+╭─❒ 「 Stalking 🔍 」 
+├ 💬${prefix}igstalk [username]
+├ 💬${prefix}ghstalk [username]
+╰❒ 💬${prefix}ytstalk [channel]
 
 
-╭─❒ 「 Converter 」
-├ ${prefix}toaudio [video]
-├ ${prefix}tomp3 [video]
-├ ${prefix}tovn [video]
-├ ${prefix}stiker [reply image]
-├ ${prefix}tourl [image/video/stiker]
-├ ${prefix}togif [sticker]
-├ ${prefix}tomp4 [sticker]
-╰❒${prefix}toimg [reply sticker]
+╭─❒ 「 Search 🔎 」 
+├ 🎶${prefix}ytsearch [query]
+├ 🎶${prefix}wallpaper [query]
+├ 🎶${prefix}google [query]
+├ 🎶${prefix}wikimedia [query]
+├ 🎶${prefix}hentai
+├ 🎶${prefix}wattpad [query]
+├ 🎶${prefix}webtoons [query]
+├ 🎶${prefix}drakor [query]
+╰❒ 🎶${prefix}pinterest [query]
 
 
-╭─❒ 「 Image Effect 」 
-├ ${prefix}wanted [reply image/stiker]
-├ ${prefix}utatoo [reply image/stiker]
-├ ${prefix}unsharpen [reply image/stiker]
-├ ${prefix}thanos [reply image/stiker]
-├ ${prefix}sniper [reply image/stiker]
-├ ${prefix}sharpen [reply image/stiker]
-├ ${prefix}sepia [reply image/stiker]
-├ ${prefix}scary [reply image/stiker]
-├ ${prefix}rip [reply image/stiker]
-├ ${prefix}redple [reply image/stiker]
-├ ${prefix}rejected [reply image/stiker]
-├ ${prefix}posterize [reply image/stiker]
-├ ${prefix}ps4 [reply image/stiker]
-├ ${prefix}pixelize [reply image/stiker]
-├ ${prefix}missionpassed [reply image/stiker]
-├ ${prefix}moustache [reply image/stiker]
-├ ${prefix}lookwhatkarenhave [reply image/stiker]
-├ ${prefix}jail [reply image/stiker]
-├ ${prefix}invert [reply image/stiker]
-├ ${prefix}instagram [reply image/stiker]
-├ ${prefix}greyscale [reply image/stiker]
-├ ${prefix}glitch [reply image/stiker]
-├ ${prefix}gay [reply image/stiker]
-├ ${prefix}frame [reply image/stiker]
-├ ${prefix}fire [reply image/stiker]
-├ ${prefix}distort [reply image/stiker]
-├ ${prefix}dictator [reply image/stiker]
-├ ${prefix}deepfry [reply image/stiker]
-├ ${prefix}ddungeon [reply image/stiker]
-├ ${prefix}circle [reply image/stiker]
-├ ${prefix}challenger [reply image/stiker]
-├ ${prefix}burn [reply image/stiker]
-├ ${prefix}brazzers [reply image/stiker]
-╰❒ ${prefix}beautiful [reply image/stiker]
+╭─❒ 「 Converter 📇 」
+├ 📲${prefix}toaudio [video]
+├ 📲${prefix}tomp3 [video]
+├ 📲${prefix}tovn [video]
+├ 📲${prefix}stiker [reply image]
+├ 📲${prefix}tourl [image/video/stiker]
+├ 📲${prefix}togif [sticker]
+├ 📲${prefix}tomp4 [sticker]
+╰❒📲${prefix}toimg [reply sticker]
 
 
-╭─❒ 「 Sticker Effect 」 
-├ ${prefix}jail [reply image/stiker]
-├ ${prefix}red [reply image/stiker]
-├ ${prefix}gay [reply image/stiker]
-├ ${prefix}bloo [reply image/stiker]
-├ ${prefix}blue [reply image/stiker]
-├ ${prefix}sepia [reply image/stiker]
-├ ${prefix}green [reply image/stiker]
-├ ${prefix}glass [reply image/stiker]
-├ ${prefix}invert [reply image/stiker]
-├ ${prefix}blurple [reply image/stiker]
-├ ${prefix}blurple2 [reply image/stiker]
-├ ${prefix}wasted [reply image/stiker]
-├ ${prefix}passed [reply image/stiker]
-├ ${prefix}triggered [reply image/stiker]
-├ ${prefix}comrade [reply image/stiker]
-├ ${prefix}greyscale [reply image/stiker]
-├ ${prefix}threshold [reply image/stiker]
-├ ${prefix}brightness [reply image/stiker]
-╰❒ ${prefix}invertgreyscale [reply image/stiker]
+╭─❒ 「 Image Effect 🔖」 
+├ 🖼️${prefix}wanted [reply image/stiker]
+├ 🖼️${prefix}utatoo [reply image/stiker]
+├ 🖼️${prefix}unsharpen [reply image/stiker]
+├ 🖼️${prefix}thanos [reply image/stiker]
+├ 🖼️${prefix}sniper [reply image/stiker]
+├ 🖼️${prefix}sharpen [reply image/stiker]
+├ 🖼️${prefix}sepia [reply image/stiker]
+├ 🖼️${prefix}scary [reply image/stiker]
+├ 🖼️${prefix}rip [reply image/stiker]
+├ 🖼️${prefix}redple [reply image/stiker]
+├ 🖼️${prefix}rejected [reply image/stiker]
+├ 🖼️${prefix}posterize [reply image/stiker]
+├ 🖼️${prefix}ps4 [reply image/stiker]
+├ 🖼️${prefix}pixelize [reply image/stiker]
+├ 🖼️${prefix}missionpassed [reply image/stiker]
+├ 🖼️${prefix}moustache [reply image/stiker]
+├ 🖼️${prefix}lookwhatkarenhave [reply image/stiker]
+├ 🖼️${prefix}jail [reply image/stiker]
+├ 🖼️${prefix}invert [reply image/stiker]
+├ 🖼️${prefix}instagram [reply image/stiker]
+├ 🖼️${prefix}greyscale [reply image/stiker]
+├ 🖼️${prefix}glitch [reply image/stiker]
+├ 🖼️${prefix}gay [reply image/stiker]
+├ 🖼️${prefix}frame [reply image/stiker]
+├ 🖼️${prefix}fire [reply image/stiker]
+├ 🖼️${prefix}distort [reply image/stiker]
+├ 🖼️${prefix}dictator [reply image/stiker]
+├ 🖼️${prefix}deepfry [reply image/stiker]
+├ 🖼️${prefix}ddungeon [reply image/stiker]
+├ 🖼️${prefix}circle [reply image/stiker]
+├ 🖼️${prefix}challenger [reply image/stiker]
+├ 🖼️${prefix}burn [reply image/stiker]
+├ 🖼️${prefix}brazzers [reply image/stiker]
+╰❒ 🖼️${prefix}beautiful [reply image/stiker]
 
 
-╭─❒ 「 Download 」 
-├ ${prefix}tiktok [link]
-├ ${prefix}tiktoknowm [link]
-├ ${prefix}tiktokwm [link]
-├ ${prefix}tiktokaudio [link]
-├ ${prefix}ytdl [link]
-├ ${prefix}play [query]
-├ ${prefix}ytmp3 [link]
-├ ${prefix}ytshortmp3 [link]
-├ ${prefix}ytmp4 [link]
-├ ${prefix}ytshorts [link]
-├ ${prefix}facebook [link]
-├ ${prefix}facebooksd [link]
-├ ${prefix}facebookhd [link]
-├ ${prefix}fbaudio [link]
-├ ${prefix}igstory [username]
-├ ${prefix}igdl [link]
-├ ${prefix}igphoto [link]
-├ ${prefix}igvideo [link]
-├ ${prefix}igreels [link]
-├ ${prefix}igtv [link]
-├ ${prefix}soundcloud [link]
-├ ${prefix}gitclone [link repo]
-├ ${prefix}gitrepo [username repo branch]
-├ ${prefix}mediafire [link]
-╰❒ ${prefix}twitter link
+╭─❒ 「 Sticker Effect 🃏 」 
+├ 💦${prefix}jail [reply image/stiker]
+├ 💦${prefix}red [reply image/stiker]
+├ 💦${prefix}gay [reply image/stiker]
+├ 💦${prefix}bloo [reply image/stiker]
+├ 💦${prefix}blue [reply image/stiker]
+├ 💦${prefix}sepia [reply image/stiker]
+├ 💦${prefix}green [reply image/stiker]
+├ 💦${prefix}glass [reply image/stiker]
+├ 💦${prefix}invert [reply image/stiker]
+├ 💦${prefix}blurple [reply image/stiker]
+├ 💦${prefix}blurple2 [reply image/stiker]
+├ 💦${prefix}wasted [reply image/stiker]
+├ 💦${prefix}passed [reply image/stiker]
+├ 💦${prefix}triggered [reply image/stiker]
+| 💦${prefix}comrade [reply image/stiker]
+├ 💦${prefix}greyscale [reply image/stiker]
+├ 💦${prefix}threshold [reply image/stiker]
+├ 💦${prefix}brightness [reply image/stiker]
+╰❒ 💦${prefix}invertgreyscale [reply image/stiker]
 
-╭─❒ 「 Primbon 」
-├ ${prefix}nomorhoki 887435047326
-├ ${prefix}artimimpi [query]
-├ ${prefix}artinama [query]
-├ ${prefix}ramaljodoh
-├ ${prefix}ramaljodohbali
-├ ${prefix}suamiistri
-├ ${prefix}ramalcinta
-├ ${prefix}cocoknama
-├ ${prefix}pasangan
-├ ${prefix}jadiannikah
-├ ${prefix}sifatusaha
-├ ${prefix}rezeki
-├ ${prefix}pekerjaan
-├ ${prefix}nasib
-├ ${prefix}penyakit
-├ ${prefix}tarot
-├ ${prefix}fengshui
-├ ${prefix}haribaik
-├ ${prefix}harisangar
-├ ${prefix}harisial
-├ ${prefix}nagahari
-├ ${prefix}arahrezeki
-├ ${prefix}peruntungan
-├ ${prefix}weton
-├ ${prefix}karakter
-├ ${prefix}keberuntungan
-├ ${prefix}memancing
-├ ${prefix}masasubur
-├ ${prefix}zodiak 
-╰❒ ${prefix}shio [query]
+
+╭─❒ 「 Download 📥 」 
+├ 📩${prefix}tiktok [link]
+├ 📩${prefix}tiktoknowm [link]
+├ 📩${prefix}tiktokwm [link]
+├ 📩${prefix}tiktokaudio [link]
+├ 📩${prefix}ytdl [link]
+├ 📩${prefix}play [query]
+├ 📩${prefix}ytmp3 [link]
+├ 📩${prefix}ytshortmp3 [link]
+├ 📩${prefix}ytmp4 [link]
+├ 📩${prefix}ytshorts [link]
+├ 📩${prefix}facebook [link]
+├ 📩${prefix}facebooksd [link]
+├ 📩${prefix}facebookhd [link]
+├ 📩${prefix}fbaudio [link]
+├ 📩${prefix}igstory [username]
+├ 📩${prefix}igdl [link]
+├ 📩${prefix}igphoto [link]
+├ 📩${prefix}igvideo [link]
+├ 📩${prefix}igreels [link]
+├ 📩${prefix}igtv [link]
+├ 📩${prefix}soundcloud [link]
+├ 📩${prefix}gitclone [link repo]
+├ 📩${prefix}gitrepo [username repo branch]
+├ 📩${prefix}mediafire [link]
+╰❒ 📩${prefix}twitter link
+
+╭─❒ 「 Primbon 🎊 」
+├ 🎉${prefix}nomorhoki 887435047326
+├ 🎉${prefix}artimimpi [query]
+├ 🎉${prefix}artinama [query]
+├ 🎉${prefix}ramaljodoh
+├ 🎉${prefix}ramaljodohbali
+├ 🎉${prefix}suamiistri
+├ 🎉${prefix}ramalcinta
+├ 🎉${prefix}cocoknama
+├ 🎉${prefix}pasangan
+├ 🎉${prefix}jadiannikah
+├ 🎉${prefix}sifatusaha
+├ 🎉${prefix}rezeki
+├ 🎉${prefix}pekerjaan
+├ 🎉${prefix}nasib
+├ 🎉${prefix}penyakit
+├ 🎉${prefix}tarot
+├ 🎉${prefix}fengshui
+├ 🎉${prefix}haribaik
+├ 🎉${prefix}harisangar
+├ 🎉${prefix}harisial
+├ 🎉${prefix}nagahari
+├ 🎉${prefix}arahrezeki
+├ 🎉${prefix}peruntungan
+├ 🎉${prefix}weton
+├ 🎉${prefix}karakter
+├ 🎉${prefix}keberuntungan
+├ 🎉${prefix}memancing
+├ 🎉${prefix}masasubur
+├ 🎉${prefix}zodiak 
+╰❒ 🎉${prefix}shio [query]
 
 ╭─❒ 「 Random Anime 」
 ├ ${prefix}loli
@@ -797,15 +797,15 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ ${prefix}rose
 
 ╭─❒ 「 TqTo 」 
-├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
+├ Allah Ta'Ala
+├ Nabi Muhammad 
+├ Orang Tua
+├ Wanda Prasetya
+├ Reza
+├ Fahri
+├ Lord Edi
+├ Admin Ngntd
+├ Member Kontol
 ├ Penyedia Module
 ╰❒ And All Support
     `
@@ -864,8 +864,8 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Base : https://github.com/wandaprasetya23 
+Recode : https://instagram.com/wnd.prfct
 `
 }
 exports.tos = (ownernomer) => {
@@ -1475,16 +1475,16 @@ return`╭─❒ 「 Random Cewe 」
 
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
-├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
-├ Penyedia Module
+├ Allah Ta'Ala
+├ Nabi Muhammad 
+├ Orang Tua.
+├ Wanda Prasetya
+├ Reza
+├ Fahri
+├ Lord Edi
+├ Admin Ngntd 
+├ Member Kontl
+├ Sans Bot
 ╰❒ And All Support
 `
 }
